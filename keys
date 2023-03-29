@@ -34,7 +34,7 @@ local theme = {
     textcolor = Color3.fromRGB(255, 255, 255),
     textborder = Color3.fromRGB(0, 0, 0),
     cursoroutline = Color3.fromRGB(255, 255, 255),
-    font = Drawing.Fonts.Code,
+    font = Drawing.Fonts.Plex,
     textsize = 13}
 do
     function utility:Size(xScale,xOffset,yScale,yOffset,instance)
